@@ -21,6 +21,10 @@ This project implements a **Lightweight Masked Autoencoder (MAE)** for **satelli
   - Upload latent → Reconstruct image  
 
 ---
+## Model Flow
+<img width="900" height="441" alt="image" src="https://github.com/user-attachments/assets/8cc398ea-650f-45d6-a0ea-92d38b67f8f2" />
+Figure 1. MAE Workflow for Image Compression
+
 
 ## 📚 Project Structure
 Satellite-MAE-Compression/
