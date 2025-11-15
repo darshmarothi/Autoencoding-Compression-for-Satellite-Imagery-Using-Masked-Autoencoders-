@@ -32,22 +32,22 @@ Satellite-MAE-Compression/
 │
 ├── README.md
 ├── project_report/
-│   └── projectreportadctfinal.pdf
+│ └── projectreportadctfinal.pdf
 │
 ├── notebooks/
-│   └── MaeVsPCA.ipynb
+│ └── MaeVsPCA.ipynb
 │
 ├── src/
-│   ├── mae_model.py
-│   ├── train_mae.py
-│   ├── evaluate.py
-│   └── utils.py
+│ ├── mae_model.py
+│ ├── train_mae.py
+│ ├── evaluate.py
+│ └── utils.py
 │
 ├── streamlit_app/
-│   └── app.py
+│ └── app.py
 │
 ├── saved_models/
-│   └── mae_light_corrected_final.pth
+│ └── mae_light_corrected_final.pth
 │
 └── requirements.txt
 
